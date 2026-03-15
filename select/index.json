@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Good Mood",
+  "base_artist": "内田雄馬",
+  "createdAt": "2026-03-15T22:17:54.993023Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "GOOD MOOD (feat. grandson)",
+      "artist": "De'Wayne Jackson",
+      "has_synced": false,
+      "path": "select/01_GOOD_MOOD_(feat._grandson)_De'Wayne_Jackson.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GOOD MOOD (feat. grandson)",
+      "artist": "DE'WAYNE, grandson",
+      "has_synced": false,
+      "path": "select/02_GOOD_MOOD_(feat._grandson)_DE'WAYNE,_grandson.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Good Mood - Original Song From Paw Patrol: The Movie",
+      "artist": "Adam Levine",
+      "has_synced": true,
+      "path": "select/03_Good_Mood_-_Original_Song_From_Paw_Patrol__The_Movie_Adam_Levine.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Good Mood (Original Song From Paw Patrol: The Movie)",
+      "artist": "Adam Levine",
+      "has_synced": true,
+      "path": "select/04_Good_Mood_(Original_Song_From_Paw_Patrol__The_Movie)_Adam_Levine.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "GOOD MOOD (feat. grandson)",
+      "artist": "DE'WAYNE feat. grandson",
+      "has_synced": true,
+      "path": "select/05_GOOD_MOOD_(feat._grandson)_DE'WAYNE_feat._grandson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "GOOD MOOD (feat. grandson)",
+      "artist": "DE'WAYNE & grandson",
+      "has_synced": true,
+      "path": "select/06_GOOD_MOOD_(feat._grandson)_DE'WAYNE_&_grandson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Good Mood (Original Song from Paw Patrol: The Movie)",
+      "artist": "Adam Levine",
+      "has_synced": true,
+      "path": "select/07_Good_Mood_(Original_Song_from_Paw_Patrol__The_Movie)_Adam_Levine.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Summer: She Puts Me In a Good Mood",
+      "artist": "Dave McPherson",
+      "has_synced": false,
+      "path": "select/08_Summer__She_Puts_Me_In_a_Good_Mood_Dave_McPherson.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Good Mood",
+      "artist": "The Rubens",
+      "has_synced": true,
+      "path": "select/09_Good_Mood_The_Rubens.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "GOOD MOOD (feat. grandson)",
+      "artist": "DE'WAYNE, grandson",
+      "has_synced": true,
+      "path": "select/10_GOOD_MOOD_(feat._grandson)_DE'WAYNE,_grandson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "GOOD MOOD (feat. grandson)",
+      "artist": "DE'WAYNE",
+      "has_synced": true,
+      "path": "select/11_GOOD_MOOD_(feat._grandson)_DE'WAYNE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Mood (Original Song From Paw Patrol: The Movie)",
+      "artist": "Adam Levine",
+      "has_synced": true,
+      "path": "select/12_Good_Mood_(Original_Song_From_Paw_Patrol__The_Movie)_Adam_Levine.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "GOOD MOOD",
+      "artist": "DE’WAYNE feat. grandson",
+      "has_synced": true,
+      "path": "select/13_GOOD_MOOD_DE’WAYNE_feat._grandson.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "GOOD MOOD",
+      "artist": "DE’WAYNE",
+      "has_synced": true,
+      "path": "select/14_GOOD_MOOD_DE’WAYNE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Good mood",
+      "artist": "Yuma Uchida",
+      "has_synced": true,
+      "path": "select/15_Good_mood_Yuma_Uchida.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Good Mood",
+      "artist": "REI",
+      "has_synced": true,
+      "path": "select/16_Good_Mood_REI.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Good Mood",
+      "artist": "Richlin",
+      "has_synced": true,
+      "path": "select/17_Good_Mood_Richlin.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Put You in a Good Mood",
+      "artist": "J.cob",
+      "has_synced": true,
+      "path": "select/18_Put_You_in_a_Good_Mood_J.cob.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Good mood",
+      "artist": "内田雄馬",
+      "has_synced": false,
+      "path": "select/pl_01_Good_mood_内田雄馬.txt"
+    }
+  ]
+}
